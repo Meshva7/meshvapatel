@@ -42,7 +42,6 @@
 | 🔸 [**Retail Data Analysis**](#) | SQL + Power BI |
 | 🔸 [**SaaS Companies 2025**](#) | Python + Power BI |
 | 🔸 [**Cafe Sales Dashboard**](#) | EDA + Power BI |
-| 🔸 [**Fashion Boutique Regression**](#) | Python (scikit-learn) **Upcoming** | 
 
 💬 *Want to see more? Explore my [repositories](https://github.com/meshva7)*
 
